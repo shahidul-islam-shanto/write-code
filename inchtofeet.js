@@ -61,3 +61,21 @@ for(var i = 0; i < marks.length; i++){
 }
   console.log('Highest velu is :', max);
 */
+
+//double equal to triple equal
+let num1 = 2;
+let num2 = 2;
+if(num1 == num2){
+  console.log("she is true");
+}else{
+  console.log("he is false")
+}
+
+//note
+let num4 = 2;
+let num5 = '2';
+if(num4 === num5){
+  console.log("she is true");
+}else{
+  console.log("he is false")
+}
